@@ -10,4 +10,4 @@
 ### 라우터 설치, 사용 시 주의 점
 - 프로젝트 생성 시 yarn add react-router-dom 입력으로 설치
 -  src/index.js 파일에서 import { BrowserRouter } from 'react-router-dom'; 작성 
-- 그 후 ex) <App />을 <BrowserRouter> <App /> </BrowserRouter> " 처럼 감싸주어야 함.
+- 그 후 App을  BrowserRouter App  /BrowserRouter 처럼 감싸주어야 함.
